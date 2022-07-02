@@ -6,15 +6,13 @@ I am a software engineer currently living in Singapore, and I'm using this page 
 
 Articles are usually available for download in PDF format.
 
-<br>
 
 ## Articles
 
 
 ### Data Engineering
-<br>
 
-- ***Python, AWK, Perl, Julia***  <br>
+- ***Python, AWK, Perl, Julia: Processing large data files***  <br>
 *"How to process large data files easily?"* 
 <br> This is the question we are trying to answer, by comparing 4 scripting languages, based on different criteria (features, syntax, performance, ease of use).
 For our tests, we take a large data file and try to put that data in different "buckets" based on some conditions.<br>
