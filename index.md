@@ -29,13 +29,13 @@ Articles are usually available for download in PDF format.
     <br>
     <my-cont>
     <span>
+    <a href='https://github.com/pcaboche/article/tree/main/en/data-engineering/python-awk-perl-julia'>View LaTeX code</a>
+    </span>
+    <span>
     <a href='https://github.com/pcaboche/article/blob/main/en/data-engineering/python-awk-perl-julia/python-awk-perl-julia.pdf'>View online</a>
     </span>
     <span>
     <a href='https://github.com/pcaboche/article/raw/main/en/data-engineering/python-awk-perl-julia/python-awk-perl-julia.pdf'>Download PDF</a>
-    </span>
-    <span>
-    <a href='https://github.com/pcaboche/article/tree/main/en/data-engineering/python-awk-perl-julia'>View LaTeX code</a>
     </span>
     </my-cont>
     </li>
