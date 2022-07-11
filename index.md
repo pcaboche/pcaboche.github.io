@@ -41,7 +41,6 @@ Articles are usually available for download in PDF format.
     </span>
     </my-cont><br>
     </li>
-    </li>    
 </ul>
 
 
