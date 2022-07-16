@@ -11,9 +11,12 @@ my-cont {
 
 Hello!
 
-I am a software engineer currently living in Singapore, and I'm using this page to talk about technology...
+I am a software engineer currently living in Singapore. <br>
+LinkedIn profile: [pierre-caboche](https://www.linkedin.com/in/pierre-caboche/)
 
-Articles are usually available for download in PDF format.
+
+I'm using this page to talk about technology... <br>
+Articles are usually available for download in PDF format (generated using LaTeX).
 
 
 ## Articles
