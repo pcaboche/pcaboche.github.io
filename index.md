@@ -21,6 +21,30 @@ Articles are usually available for download in PDF format (generated using LaTeX
 
 ## Articles
 
+### Solr / ElasticSearch
+
+<ul>
+    <li>
+    <a id="python-awk-perl-julia" href="https://github.com/pcaboche/article/blob/main/en/solr-elasticsearch/solr-analysing-lyrics/solr-analysing-lyrics.pdf"><b><i>Solr and ElasticSearch: index, faceting, and analysing the lyrics of Japanese songs</i></b></a><br>
+    <i>165 pages, 12<sup>th</sup> September 2022</i><br>
+    <br>
+    A hands-on introduction to Solr, ElasticSearch. The case-study uses faceting, aggregations to analyse the type of vocabulary used in a variety of Japanese songs, and compare the writing styles of popular bands / songwriters (40+ bands, 7000+ songs).<br>
+    <br>
+    <br>
+    <my-cont>
+    <span>
+    <a href='https://github.com/pcaboche/article/tree/main/en/solr-elasticsearch/solr-analysing-lyrics/'>View LaTeX code</a>
+    </span>
+    <span>
+    <a href='https://github.com/pcaboche/article/blob/main/en/solr-elasticsearch/solr-analysing-lyrics/solr-analysing-lyrics.pdf'>View online</a>
+    </span>
+    <span>
+    <a href='https://github.com/pcaboche/article/raw/main/en/solr-elasticsearch/solr-analysing-lyrics/solr-analysing-lyrics.pdf'>Download PDF</a>
+    </span>
+    </my-cont><br>
+    </li>
+</ul>
+
 ### Data Engineering
 
 <ul>
